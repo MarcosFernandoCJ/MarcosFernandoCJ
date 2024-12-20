@@ -11,7 +11,6 @@
 
 - 🌱 A passionate **Self-taught Full Stack developer**
 - 💻 Currently learning **Web Development on Tecsup**
-- 📫 How to reach me **marcoschocce2828@gmail.com**
 
 <br><br>
 
@@ -48,7 +47,6 @@
 - **Databases**:
 
     ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-    ![Oracle](https://img.shields.io/badge/Oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
 <br>
 
