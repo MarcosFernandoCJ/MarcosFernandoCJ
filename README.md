@@ -5,7 +5,7 @@
 
 ## **About me**
 
-<picture> <img align="right" src="https://avatars.githubusercontent.com/u/00000000?v=4" width = 250px></picture>
+<picture> <img align="right" src="https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png" width = 250px></picture>
 
 <br>
 
